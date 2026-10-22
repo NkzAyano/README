@@ -1,137 +1,175 @@
-SOU BR MAIS DECIDIR ESCREVER EM INGLES PARA MELHORAR 🇧🇷
-# `NKZ` — Student Developer
+# NKZ | Software Development & Technology
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:080812,50:4920A0,100:087CF5&text=NKZ&fontColor=FFFFFF&fontSize=80&fontAlignY=42&animation=fadeIn&desc=CODE%20%7C%20SECURITY%20%7C%20INNOVATION&descAlignY=65&descSize=15" width="100%" alt="NKZ cyber technology banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05050B,45:35116F,100:0759A8&text=NKZ&fontColor=FFFFFF&fontSize=90&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20%2F%2F%20SYSTEMS%20%2F%2F%20TECHNOLOGY&descAlignY=65&descSize=14" width="100%" alt="NKZ Technology Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=600&lines=Student+Developer;Building+with+Python;Exploring+Cybersecurity;Learning+by+Building" alt="Animated introduction"/>
+  <a href="https://github.com/NkzAyano">
+    <img src="https://img.shields.io/badge/GitHub-NkzAyano-11111B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Student%20Developer-7C3AED?style=for-the-badge" alt="Role"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Interest-Cybersecurity-0891B2?style=for-the-badge" alt="Interest"/>
+  <i>Engineering ideas into practical software.</i><br/>
+  <i>Transformando ideias em soluções de software.</i>
 </p>
 
 ---
 
-## `01 // About Me`
+# 🇧🇷 Português
 
-Hi! I'm **NKZ**, a student developer passionate about technology, programming, and cybersecurity.
+## `01 // Perfil`
 
-I'm building my skills through hands-on projects, experimenting with code, and learning how computer systems and networks work.
+Desenvolvimento de software, programação e tecnologia.
 
-- **Current focus:** Python, programming logic, and software development.
-- **Exploring:** Linux, networking, and cybersecurity fundamentals.
-- **Building:** Command-line utilities, automation tools, and beginner-friendly projects.
-- **Long-term goal:** Become a software developer and cybersecurity analyst.
-- **Philosophy:** Learn consistently, build responsibly, and improve every project.
+Meu foco está na construção de projetos práticos, ferramentas de linha de comando, aplicações e soluções que exploram diferentes áreas do desenvolvimento.
 
-> Every project is an opportunity to learn something new.
+Busco escrever código organizado, compreender como os sistemas funcionam e transformar ideias em projetos funcionais.
 
-## `02 // Tech Stack`
+- **Desenvolvimento:** Python, JavaScript, C e PHP.
+- **Dados:** SQL e modelagem de bancos de dados.
+- **Sistemas:** Linux, Windows e ferramentas de terminal.
+- **Interesses:** Automação, redes, desenvolvimento web e fundamentos de cibersegurança.
+- **Princípios:** Código legível, documentação, testes e melhoria contínua.
 
-### Languages
+## `02 // Stack`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash" alt="Programming languages"/>
-</p>
-
-### Tools & Platforms
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Development tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=python,js,c,php" alt="Python, JavaScript, C and PHP"/>
 </p>
 
-**Current priority:** Python, Git, Linux fundamentals, networking, and clean code.
+### Databases & Web
 
-*Technologies displayed represent my learning interests and tools I am exploring, not necessarily professional proficiency.*
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css" alt="SQL databases and web technologies"/>
+</p>
 
-## `03 // Featured Projects`
+### Tools & Environments
 
-### `NKZ System Info`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Development tools"/>
+</p>
 
-A lightweight Python command-line utility for displaying basic computer system information.
+## `03 // Projetos em destaque`
 
-- System information
-- Hardware overview
-- Simple terminal interface
-- No third-party packages required
+### NKZ System Info
 
-**Repository:** [View project](https://github.com/SEU-USUARIO/NKZ-System-Info)
+Utilitário de terminal em Python para consultar informações do computador.
 
-### `NKZ Task Manager`
+- Informações do sistema e hardware.
+- Interface por linha de comando.
+- Implementação leve, sem dependências externas quando possível.
 
-A terminal-based task manager designed to organize everyday activities.
+### NKZ Task Manager
 
-- Add tasks
-- Mark tasks as completed
-- Delete tasks
-- Simple menu-driven workflow
+Gerenciador de tarefas baseado em terminal.
 
-**Repository:** [View project](https://github.com/SEU-USUARIO/NKZ-Task-Manager)
+- Criação e organização de tarefas.
+- Marcação de tarefas concluídas.
+- Remoção de tarefas.
 
-### `NKZ NET TOOLS`
+### NKZ NET TOOLS
 
-A collection of network diagnostic utilities for learning and troubleshooting.
+Ferramentas de diagnóstico de rede para ambientes compatíveis.
 
-- Local network configuration
-- IP and DNS information
-- Connectivity and latency checks
-- Diagnostic reports
+- Consulta de configurações de rede.
+- Informações de IP e DNS.
+- Testes de conectividade e latência.
+- Recursos de diagnóstico e relatórios.
 
-**Repository:** [View project](https://github.com/SEU-USUARIO/NKZ-NET-TOOLS)
+> Adicione os links reais de cada projeto quando os respectivos repositórios estiverem publicados. Mantenha somente as funcionalidades implementadas.
 
-> Replace the example repository URLs with your actual repository names. Keep only features implemented and verified in each project.
+## `04 // Áreas de interesse`
 
-## `04 // Learning Roadmap`
-
-- [x] Start learning programming fundamentals
-- [x] Build initial Python projects
-- [ ] Improve Python code structure and error handling
-- [ ] Practice Git and GitHub workflows
-- [ ] Learn Linux commands and permissions
-- [ ] Study IP addressing, DNS, TCP/IP, and ports
-- [ ] Learn software testing and debugging
-- [ ] Study cybersecurity fundamentals
-- [ ] Build and document more portfolio projects
+- Desenvolvimento de software e automação.
+- Programação de sistemas com C.
+- Aplicações web com JavaScript e PHP.
+- Consultas e modelagem de dados com SQL.
+- Administração de sistemas Linux.
+- Redes de computadores e cibersegurança defensiva.
 
 ## `05 // GitHub Analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090912&title_color=A78BFA&icon_color=60A5FA&text_color=D4D4E8" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=090912&title_color=A78BFA&text_color=D4D4E8" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NkzAyano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090912&title_color=A78BFA&icon_color=60A5FA&text_color=D4D4E8" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkzAyano&layout=compact&theme=tokyonight&hide_border=true&bg_color=090912&title_color=A78BFA&text_color=D4D4E8" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=090912&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" width="70%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=NkzAyano&theme=tokyonight&hide_border=true&background=090912&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" width="70%" alt="Contribution streak"/>
 </p>
 
-*Statistics are provided by external services and may occasionally be unavailable or delayed. Language statistics reflect detected repository code, not overall programming ability.*
+*As estatísticas dependem dos dados públicos do GitHub e de serviços externos. As linguagens detectadas não representam necessariamente o nível de domínio.*
 
-## `06 // Development Principles`
+## `06 // Princípios de desenvolvimento`
 
-- Write readable, maintainable code.
-- Document setup instructions and project limitations.
-- Test changes before publishing releases.
-- Never publish passwords, API keys, or private information.
-- Practice cybersecurity only on systems I own or have explicit permission to test.
-- Credit external resources and respect software licenses.
+- Código legível e organizado.
+- Documentação clara e instruções de instalação.
+- Testes e tratamento de erros.
+- Proteção de credenciais e informações privadas.
+- Uso responsável das tecnologias e respeito às licenças de software.
 
-## `07 // Connect`
+## `07 // Contato`
 
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<p>
+  <a href="https://github.com/NkzAyano">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+</p>
+
+---
+
+# 🇺🇸 English
+
+## `01 // About`
+
+Software development, programming, and technology.
+
+My focus is on building practical projects, command-line tools, applications, and solutions across different areas of software development.
+
+I aim to write organized code, understand how systems work, and turn ideas into functional projects.
+
+- **Development:** Python, JavaScript, C, and PHP.
+- **Data:** SQL and database design.
+- **Systems:** Linux, Windows, and command-line tools.
+- **Interests:** Automation, networking, web development, and cybersecurity fundamentals.
+- **Principles:** Readable code, documentation, testing, and continuous improvement.
+
+## `02 // Areas of Interest`
+
+- Software development and automation.
+- Systems programming with C.
+- Web applications with JavaScript and PHP.
+- Data querying and database design with SQL.
+- Linux system administration.
+- Computer networking and defensive cybersecurity.
+
+## `03 // Development Principles`
+
+- Write maintainable and readable code.
+- Document projects and setup procedures.
+- Test functionality and handle errors.
+- Protect credentials and private information.
+- Use technology responsibly and respect software licenses.
+
+## `04 // Connect`
+
+<p>
+  <a href="https://github.com/NkzAyano">
+    <img src="https://img.shields.io/badge/GitHub-NkzAyano-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>Student Developer · Building skills one project at a time.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,100:0EA5E9" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,100:0EA5E9" width="100%" alt="Purple and blue footer"/>
+  <sub>Build with purpose. Code with precision. Improve continuously.</sub>
 </p>
